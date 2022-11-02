@@ -1,8 +1,8 @@
 Hi 👋 My name is Diego Rodríguez and I´m a Cloud Computing Developer. Azure & Power Platform certified
-================================================================================
+====
 
 **Azure, .NET & Power Platform Dev**
--------------------------
+---
 
 * 📚  I’m currently learning Xamarin and Blazor, deepening into Azure, .NET and SQL.
 * 📩  You can contact me at [diegorodriguezsan92@gmail.com](mailto:diegorodriguezsan92@gmail.com)
@@ -10,12 +10,9 @@ Hi 👋 My name is Diego Rodríguez and I´m a Cloud Computing Developer. Azure 
 * 📌  Know about my [experiences](https://www.linkedin.com/in/diego-rodriguez-sanchez)
 
 ### Certifications
-<p align="center"> <a href="https://learn.microsoft.com/es-es/certifications/azure-fundamentals/" target="_blank" rel="noreferrer"> <img src="https://www.cice.es/wp-content/uploads/2021/02/AZ-900-Microsoft-Certified-Azure-Fundamentals.png" alt="azure" width="130" height="130"/> </a>
-<p align="center"> <a href="https://learn.microsoft.com/es-es/certifications/power-platform-fundamentals/" target="_blank" rel="noreferrer"> <img src="https://www.pue.es/Areas/Training/Resources/Images/Sections/Courses/Providers/Microsoft/Categories/PowerPlatform/CERT-Fundamentals-Power-Platform.png" alt="azure" width="130" height="130"/> </a>
-<a align="center"> <a href="https://learn.microsoft.com/es-es/certifications/power-platform-app-maker/" target="_blank" rel="noreferrer"> <img src="https://christianabata.com/storage/2021/04/power-platform-app-maker-600x600-1.png" alt="azure" width="130" height="130"/> </a>
-
-
-
+<p align="left"> <a href="https://learn.microsoft.com/es-es/certifications/azure-fundamentals/" target="_blank" rel="noreferrer"> <img src="https://www.cice.es/wp-content/uploads/2021/02/AZ-900-Microsoft-Certified-Azure-Fundamentals.png" alt="azure" width="130" height="130"/> </a>
+<a align="left"> <a href="https://learn.microsoft.com/es-es/certifications/power-platform-fundamentals/" target="_blank" rel="noreferrer"> <img src="https://www.pue.es/Areas/Training/Resources/Images/Sections/Courses/Providers/Microsoft/Categories/PowerPlatform/CERT-Fundamentals-Power-Platform.png" alt="azure" width="130" height="130"/> </a>
+<a align="left"> <a href="https://learn.microsoft.com/es-es/certifications/power-platform-app-maker/" target="_blank" rel="noreferrer"> <img src="https://christianabata.com/storage/2021/04/power-platform-app-maker-600x600-1.png" alt="azure" width="130" height="130"/> </a>
 
 ### Languages and Tools
 

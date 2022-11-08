@@ -7,7 +7,7 @@ Hi 👋 My name is Diego Rodríguez and I´m a Cloud Computing Developer. Azure 
 * 📚  I’m currently learning Xamarin and Blazor, deepening into Azure, .NET and SQL.
 * 📩  You can contact me at [diegorodriguezsan92@gmail.com](mailto:diegorodriguezsan92@gmail.com)
 * 🌍  I'm based in Seville, Spain.
-* 📜  Here my [resume.](https://drive.google.com/file/d/1VV0KZoMHd4msJ0TNmPddrsSsFlC622gy/view?usp=share_link)
+* 📜  Here my [resume.]([https://drive.google.com/file/d/1VV0KZoMHd4msJ0TNmPddrsSsFlC622gy/view?usp=share_link](https://drive.google.com/file/d/1Jpj_rWKXbMAvekLYGzPTRbBetITtZ5zd/view?usp=share_link))
 * 📌  Know about my [experiences.](https://www.linkedin.com/in/diego-rodriguez-sanchez)
 
 ### Certifications

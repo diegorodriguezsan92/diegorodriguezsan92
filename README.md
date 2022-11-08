@@ -1,13 +1,14 @@
 Hi 👋 My name is Diego Rodríguez and I´m a Cloud Computing Developer. Azure & Power Platform certified
-====
+=
 
 **Azure, .NET & Power Platform Dev**
----
+-
 
-* 📚  I’m currently learning Blazor and Xamarin, deepening into Azure, .NET and SQL.
+* 📚  I’m currently learning Xamarin and Blazor, deepening into Azure, .NET and SQL.
 * 📩  You can contact me at [diegorodriguezsan92@gmail.com](mailto:diegorodriguezsan92@gmail.com)
 * 🌍  I'm based in Seville, Spain.
-* 📌  Know about my [experiences](https://www.linkedin.com/in/diego-rodriguez-sanchez)
+* 📜  Here my [resume.](https://drive.google.com/file/d/1VV0KZoMHd4msJ0TNmPddrsSsFlC622gy/view?usp=share_link)
+* 📌  Know about my [experiences.](https://www.linkedin.com/in/diego-rodriguez-sanchez)
 
 ### Certifications
 <p align="left"> <a href="https://learn.microsoft.com/es-es/certifications/azure-fundamentals/" target="_blank" rel="noreferrer"> <img src="https://www.cice.es/wp-content/uploads/2021/02/AZ-900-Microsoft-Certified-Azure-Fundamentals.png" alt="azure" width="130" height="130"/> </a>
@@ -36,12 +37,12 @@ Hi 👋 My name is Diego Rodríguez and I´m a Cloud Computing Developer. Azure 
 ### Interests
 
 <a href="https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-6.0" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="blazor" width="50" height="50"/> </a>
-<a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://doyasolutions.com/images/xamarin-logo.png" alt="xamarin" width="50" height="50"/> </a> </p>
+<a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/xamarin-logo-vector.svg" alt="xamarin" width="50" height="50"/> </a> </p>
 
 ### Social
 
-<a href="https://www.linkedin.com/in/diego-rodriguez-sanchez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /></a> <a href="https://www.github.com/diegorodriguezsan92" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/diegorodriguezsan92?logo=github&style=for-the-badge&color=f97316&labelColor=312e81" /></a>
+<a href="https://www.linkedin.com/in/diego-rodriguez-sanchez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="28" height="28" /></a>
+<a href="https://www.github.com/diegorodriguezsan92" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/diegorodriguezsan92?logo=github&style=for-the-badge&color=f97316&labelColor=312e81" /></a>
 
 ### My GitHub Stats
 

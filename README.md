@@ -11,9 +11,9 @@ Hi 👋 My name is Diego Rodríguez and I´m a Cloud Computing Developer. Azure 
 * 📌  Know about my [experiences.](https://www.linkedin.com/in/diego-rodriguez-sanchez)
 
 ### Certifications
-<p align="left"> <a href="https://learn.microsoft.com/es-es/certifications/azure-fundamentals/" target="_blank" rel="noreferrer"> <img src="https://www.cice.es/wp-content/uploads/2021/02/AZ-900-Microsoft-Certified-Azure-Fundamentals.png" alt="azure" width="130" height="130"/> </a>
-<a align="left"> <a href="https://learn.microsoft.com/es-es/certifications/power-platform-fundamentals/" target="_blank" rel="noreferrer"> <img src="https://www.pue.es/Areas/Training/Resources/Images/Sections/Courses/Providers/Microsoft/Categories/PowerPlatform/CERT-Fundamentals-Power-Platform.png" alt="azure" width="130" height="130"/> </a>
-<a align="left"> <a href="https://learn.microsoft.com/es-es/certifications/power-platform-app-maker/" target="_blank" rel="noreferrer"> <img src="https://christianabata.com/storage/2021/04/power-platform-app-maker-600x600-1.png" alt="azure" width="130" height="130"/> </a>
+<p align="left"> <a href="https://www.credly.com/badges/de0bfdaa-d9c8-4279-8e31-0be5e60f2ace" target="_blank" rel="noreferrer"> <img src="https://www.cice.es/wp-content/uploads/2021/02/AZ-900-Microsoft-Certified-Azure-Fundamentals.png" alt="azure" width="130" height="130"/> </a>
+<a align="left"> <a href="https://www.credly.com/badges/3f2f7a6a-91d2-4fc1-92b9-c63802aa756f" target="_blank" rel="noreferrer"> <img src="https://www.pue.es/Areas/Training/Resources/Images/Sections/Courses/Providers/Microsoft/Categories/PowerPlatform/CERT-Fundamentals-Power-Platform.png" alt="azure" width="130" height="130"/> </a>
+<a align="left"> <a href="https://www.credly.com/badges/119406b6-3c31-4650-ac48-d6994e8878e3" target="_blank" rel="noreferrer"> <img src="https://christianabata.com/storage/2021/04/power-platform-app-maker-600x600-1.png" alt="azure" width="130" height="130"/> </a>
 
 ### Languages and Tools
 

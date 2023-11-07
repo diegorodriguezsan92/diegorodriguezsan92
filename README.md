@@ -7,8 +7,8 @@ Hi 👋 My name is Diego Rodríguez and I´m a .NET & Azure Developer. Azure & P
 * 📚  I’m currently learning Blazor, deepening into Azure, .NET and SQL.
 * 📩  You can contact me at [diegorodriguezsan92@gmail.com](mailto:diegorodriguezsan92@gmail.com)
 * 🌍  I'm based in Seville, Spain.
-* 📜  Here my [resume.](https://drive.google.com/file/d/1Jpj_rWKXbMAvekLYGzPTRbBetITtZ5zd/view?usp=share_link)
-* 📌  Know about my [experiences.](https://www.linkedin.com/in/diego-rodriguez-sanchez)
+* 📜  Here my pdf [resume.](https://drive.google.com/file/d/1E3USAxbMqQMa_kOYbJtuP3uV4RjHx6NR/view)
+* 📌  Know about my experiences on [LinkedIn](https://www.linkedin.com/in/diego-rodriguez-sanchez)
 
 ### Certifications
 <p align="left"> <a href="https://learn.microsoft.com/api/credentials/share/en-us/diegorodriguezsan92/FA290106C239975?sharingId=7B7B6DB8CAA4D85F" target="_blank" rel="noreferrer"> <img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="azure" width="130" height="130"/>

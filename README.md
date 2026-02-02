@@ -26,10 +26,10 @@ Hi folks! 👋 I'm Diego Rodríguez, a .NET & Azure Developer, proudly holding c
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
 </p>
 
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="python" width="50" height="50"/>
-<a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/250/microsoft-power-automate-2020.png" alt="python" width="50" height="50"/>
-<a href="https://powervirtualagents.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://summitbajracharya.com.np/wp-content/uploads/2020/10/virtual-agent-2020-icon.png" alt="python" width="50" height="50"/>
-<a href="https://powerapps.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://summitbajracharya.com.np/wp-content/uploads/2020/10/powerapp-2020-icon-1024x1024.png" alt="python" width="50" height="50"/>
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="owerBI" width="50" height="50"/>
+<a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/250/microsoft-power-automate-2020.png" alt="PowerAutomate" width="50" height="50"/>
+<a href="https://powervirtualagents.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://summitbajracharya.com.np/wp-content/uploads/2020/10/virtual-agent-2020-icon.png" alt="Power VirtualAgents" width="50" height="50"/>
+<a href="https://powerapps.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://summitbajracharya.com.np/wp-content/uploads/2020/10/powerapp-2020-icon-1024x1024.png" alt="Power Apps" width="50" height="50"/>
 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>

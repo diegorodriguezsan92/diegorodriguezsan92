@@ -20,8 +20,8 @@ Hi folks! 👋 I'm Diego Rodríguez, a .NET & Azure Developer, proudly holding c
 ### Languages and Tools
 
 <p align="left">
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/1200px-Microsoft_Azure.svg.png" alt="azure" width="50" height="50"/>
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" alt="dotnet" width="50" height="50"/>
+<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/Category:Microsoft_Azure_logos#/media/File:Microsoft_Azure.svg" alt="azure" width="50" height="50"/>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://en.wikipedia.org/wiki/.NET#/media/File:Microsoft_.NET_logo.svg" alt="dotnet" width="50" height="50"/>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
 </p>

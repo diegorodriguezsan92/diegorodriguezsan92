@@ -1,13 +1,12 @@
 # Hi folks! 👋 I'm Diego Rodríguez
 ### .NET & Azure Developer | Certified in Azure & Power Platform
 
-* 📚 I’m currently working with **.NET, Azure, SQL, Entity Framework, Blazor** and delving into the depths of **DevOps**.
+* 📚 I’m currently working with **.NET, Azure, SQL, Entity Framework** and delving into the depths of **DevOps**.
 * 📩 Got questions? Hit me up at [diegorodriguezsan92@gmail.com](mailto:diegorodriguezsan92@gmail.com)
 * 🌍 I'm based in the sunny city of **Seville, Spain**.
 * 📜 Here my [resume (PDF).](https://drive.google.com/file/d/1E3USAxbMqQMa_kOYbJtuP3uV4RjHx6NR/view)
 * 📌 Check out my professional journey on [LinkedIn](https://www.linkedin.com/in/diego-rodriguez-sanchez)
 
----
 
 ### Certifications
 <p align="left">
@@ -22,28 +21,73 @@
   </a>
 </p>
 
-### Languages and Tools
+
+### 💻 Languages
 <p align="left">
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="45"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="45"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="45"/></a>
-  
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="45"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45"/></a>
-  
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="45"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45"/></a>
-  
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45"/></a>
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### Interests
+### 🚀 Backend and Frameworks (.NET Ecosystem)
 <p align="left">
-  <a href="https://learn.microsoft.com/en-us/aspnet/core/blazor/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="blazor" width="45"/></a>
-  <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xamarin/xamarin-original.svg" alt="xamarin" width="45"/></a>
-  <a href="https://avaloniaui.net/" target="_blank"><img src="https://avatars.githubusercontent.com/u/58937344?s=280&v=4" alt="avalonia" width="45"/></a>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20REST-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Swagger-%23C1F12E?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
+
+### 🗄️ Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### ⚡ Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Storyblok-0AB3AF?style=for-the-badge&logo=storyblok&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20Platform-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+### 🏗️ Architecture & Testing
+<p align="left">
+  <img src="https://img.shields.io/badge/Microservices-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/CQRS-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/nUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+### 🛠️ Tools & IDEs
+<p align="left">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+### 👥 Methodologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agile-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
+
+### 💡 Interests
+<p align="left">
+  <img src="https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-007AFF?style=for-the-badge&logo=ios&logoColor=white" />
 </p>
 
 ### Social
